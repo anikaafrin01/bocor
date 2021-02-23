@@ -1,0 +1,315 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+  /*header */
+  .menu ul li a {
+  
+   
+    padding: 0 1px !important;
+    
+   
+}
+/* banner start*/
+	.b_content h1 {
+    font-size: 25px;
+    line-height: 30px;
+
+}
+   .b_content{
+   	 text-align-last: center;
+   	 margin-top: 60px;
+   }
+
+    /* btn */
+ 
+
+#banner .get_started_btn {
+    margin-bottom: 40px;
+    padding: 8px 28px 8px 28px;
+  }
+	
+.b_content h2 {
+    font-size: 18px;
+    line-height: 30px;
+
+}
+/* logo */
+.clients_logo {
+    
+    height: 90px;
+  }
+
+/* about*/
+.a_h1 {
+  
+    font-size: 24px;
+   
+    line-height: none;
+}
+
+ .col-12 {
+    flex: 12px 0;
+}
+.common_title {
+    text-align: center;
+}
+ /*service */
+.services_bottom{
+  margin-bottom: 0px;
+}
+ 
+
+  
+.service-text {
+   padding: 10px;
+    top: 38%;
+
+}
+
+.pt_1{
+    margin-bottom: 160px;
+  }
+   .mt-300{
+     margin-top: 0px;
+   }
+  
+ 
+.service-text h2 {
+    font-size: 20px;
+    padding: 10px 0px;
+  }
+/*feature */
+.s_h1 {
+   
+    margin-bottom: 0px;
+  }
+  .f_h2 {
+   
+    font-size: 23px;
+    
+    margin-bottom: 20px;
+}
+.credits {
+    float: none;}
+
+.social_links ul {
+  padding-left: 0px;
+}
+ 
+
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/* banner start*/
+	
+
+.b_content h1 {
+    font-size: 33px;
+  
+}
+.b_content h2 {
+    font-size: 17px;
+    
+}
+ .b_content{
+   	 text-align-last: center;
+   	 margin-top: 60px;
+   }
+   #banner .get_started_btn {
+   	margin-bottom: 45px;
+   }
+	
+
+/* logo*/
+.clients_logo {
+   
+    height: 80px;
+  }
+  /*about*/
+  .a_h1 {
+   
+    font-size: 30px;
+  }
+  /* service*/
+ 
+
+
+  .pt_1{
+    margin-top: 200px;
+  }
+   .mt-300{
+     margin-top: none;
+   }
+  .service-text {
+   
+    top: 65%;}
+ 
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/* banner start*/
+	.b_content h1 {
+    font-size: 28px;
+    line-height: 36px;
+
+}
+   .b_content{
+   	 text-align-last: center;
+   	 margin-top: 60px;
+   }
+   #banner .get_started_btn {
+   	margin-bottom: 45px;
+   }
+
+.b_content h2 {
+    font-size: 18px;
+    line-height: 30px;
+
+}
+/* common title*/
+.common_title {
+    text-align: center;
+    padding-bottom: 30px;
+}
+/*about start */
+.about {
+    padding: 40px 0;
+  }
+.a_h1 {
+   
+    margin-top: 35px;}
+/* services */
+.col-md-6 {
+    margin-top: 10px;
+  }
+.service-box img {
+    
+    margin: 115px 0;
+  }
+.service-text {
+   
+    top: 60%;
+  }
+  .service-text h2 {
+    font-size: 22px;
+  }
+  .service-text p {
+    font-size: 15px;
+}
+
+
+  
+  .service-text {
+   
+    top: 65%;}
+ 
+}
+/*.services{
+  margin-bottom: 110px;}*/
+  /*contact*/
+ 
+
+    /* footer */
+    .footer_top {
+    
+    padding: 30px 0;
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /*header */
+  .menu ul li a {
+   
+   
+    padding: 0 10px !important;
+  }
+
+  /* banner start*/
+	.b_content {
+    margin-top: 155px;
+  }
+.b_content h1 {
+   
+    font-size: 40px;
+  }
+  .b_content h2 {
+   
+    font-size: 21px;
+  }
+  /*about start */
+  .a_h1 {
+  
+  
+    font-size: 26px;
+     margin-top: 5px;
+    margin-bottom: 12px;
+    
+}
+.c_h2 {
+  
+    font-size: 19px;
+  }
+ .p {
+  line-height: none;
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+/* services start */
+.service-text {
+   
+    top: 68%;
+  }
+/*features */
+.f_h2 {
+   
+    font-size: 24px;}
+}
+/*portfolio */
+.nav {
+     /*  flex-wrap: wrap;*/
+    
+    padding-left: 0;
+  }
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* banner */
+  .b_content h1 {
+   
+    font-size: 46px;
+  }
+  /* about start */
+	.a_h1 {
+   
+    font-size: 31px;
+   
+    margin-top: 10px;
+    margin-bottom: 9px;
+    line-height: 1;
+}
+/* services start*/
+.service-text {
+   
+    top: 84%;
+}
+
+
+}
+/*custom devices (custom devices, 1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1599.98px) {
+	
+	
+
+}
+
+/*custom devices (custom devices, 1600px and up)*/
+@media (min-width: 1600px) and (max-width: 1799.98px) {
+	
+
+	
+
+}
+/*customlarge devices (custom devices, 1800px and up)*/
+@media (min-width: 1800px) {
+	
+}
